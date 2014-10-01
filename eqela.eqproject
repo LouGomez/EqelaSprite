@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# LouSprite
+#
+
+projectname: LouSprite
+vendorid: com.lousprite
+mainmodule: com.lousprite.lousprite
